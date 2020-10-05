@@ -1,0 +1,10 @@
+[
+    {
+        "make": "Tesla",
+        "model": "Fiestaa"
+    },
+    {
+        "make": "Elon",
+        "model": "Musk"
+    }
+]
